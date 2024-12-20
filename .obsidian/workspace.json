@@ -159,16 +159,6 @@
             }
           },
           {
-            "id": "f7328b5e468f0744",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "2ce54fa2e14b2b36",
             "type": "leaf",
             "state": {
@@ -203,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4fe164a5ed938f1",
+  "active": "2ce54fa2e14b2b36",
   "lastOpenFiles": [
     "Dataview-Example/Playground.md",
     "Dataview-Example/Note2.md",

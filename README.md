@@ -18,6 +18,7 @@
 - Git
 - Linter
 - Style Settings
+- Better Export PDF
 
 ### 安装和设置
 

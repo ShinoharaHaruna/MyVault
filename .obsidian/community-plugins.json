@@ -3,5 +3,6 @@
   "dataview",
   "obsidian-style-settings",
   "obsidian-linter",
-  "obsidian-git"
+  "obsidian-git",
+  "better-export-pdf"
 ]
